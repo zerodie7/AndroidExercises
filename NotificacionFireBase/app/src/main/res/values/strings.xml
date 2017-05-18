@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificacionFireBase</string>
+    <string name="lanzar_notificacion">lanzar Notificacion</string>
+</resources>

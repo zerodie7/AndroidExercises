@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Actividades</string>
+    <string name="onstart">OnStart</string>
+    <string name="onresume">OnResume</string>
+    <string name="onrestart">OnRestart</string>
+    <string name="onpause">OnPause</string>
+    <string name="onstop">OnStop</string>
+    <string name="ondestroy">OnDestroy</string>
+    <string name="oncreate">OnCreate</string>
+
+
+
+
+</resources>
